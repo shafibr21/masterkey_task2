@@ -1,0 +1,12 @@
+//after installing react and here is method of istalling react go to terminal and run this command
+
+
+npx create-react-app projectname
+
+
+//then start project
+
+npm start 
+
+
+
